@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+
+gem 'haml'
+gem 'haml-rails'
+
+gem "erb2haml", :group => :development
+
+gem 'cowsay'
